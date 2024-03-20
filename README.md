@@ -4,7 +4,7 @@ This is a repository that contains all the code used from the paper [Applying Ma
 
 ## Data Set Generation
 The synthetic modified Fuchs data sets are generated with the following notebook in the *datasets* directory
-- Fuchs_Data_Generation_v3.3.ipynb
+- Fuchs_Data_Generation_v3.2.ipynb
 
 ## Hyperparameter Optimization
 The hyperparameters were chosen with `GridSearchCV` and the relevant files are in the *model_tuning* directory
