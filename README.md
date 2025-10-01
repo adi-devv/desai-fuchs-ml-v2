@@ -1,3 +1,4 @@
+# Trying to improve this sh
 # Machine Learning with Modified Fuchs Model
 
 This is a repository that contains all the code used from the paper [Applying Machine Learning Methods to Laser Acceleration of Protons: Lessons Learned from Synthetic Data](https://arxiv.org/abs/2307.16036). It contains the ML model training jupyter notebooks along with the plotting and analysis notebooks. 
